@@ -82,7 +82,7 @@ It serves as a continuous learning archive — blending:
 
 <small>
 
- 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](Docs/Transformers.pdf)  
+ 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](TRANSFORMERS.pdf)  
 > ⚙️ Explores the architectural anatomy of the Transformer — from multi-head attention and positional encoding to encoder-decoder blocks that enable parallel sequence modeling.
 
 </small>
