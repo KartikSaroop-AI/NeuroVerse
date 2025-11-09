@@ -64,9 +64,10 @@ It serves as a continuous learning archive — blending:
 - 🧩 *Experiment 2:* TensorFlow Callbacks (EarlyStopping & ModelCheckpoint)  
 - 🧩 *Experiment 3:* Sentiment Analysis using LSTM  
 
-📓 [Notebook: Sentiment_Analysis_LSTM.ipynb](Notebooks/Sentiment_Analysis_LSTM.ipynb)  
-📘 [Paper: “How Do RNNs Remember?”](Docs/How_Do_Recurrent_Neural_Networks_Remember.pdf)  
-📘 [Paper: “Backpropagation Through Time (BPTT)”](Docs/Backpropagation_Through_Time_BPTT.pdf)
+**Articles & Notes**
+- 📓 [Notebook: Sentiment_Analysis_LSTM.ipynb](Notebooks/Sentiment_Analysis_LSTM.ipynb)  
+- 📘 [Paper: “How Do RNNs Remember?”](Docs/How_Do_Recurrent_Neural_Networks_Remember.pdf)  
+- 📘 [Paper: “Backpropagation Through Time (BPTT)”](Docs/Backpropagation_Through_Time_BPTT.pdf)
 
 ---
 
@@ -74,18 +75,14 @@ It serves as a continuous learning archive — blending:
 **Focus:**
 - Self-attention mechanism  
 - Encoder-decoder architecture  
-- Fine-tuning BERT for text classification  
+- Fine-tuning BERT for text classification
+
+**Experiments:**
+
+**Articles & Notes:**
+- 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](TRANSFORMERS.pdf)  
 
 
-
-### 📘 Featured Research Articles — Transformers & Attention
-
-<small>
-
- 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](TRANSFORMERS.pdf)  
-> ⚙️ Explores the architectural anatomy of the Transformer — from multi-head attention and positional encoding to encoder-decoder blocks that enable parallel sequence modeling.
-
-</small>
 
 
 ---
