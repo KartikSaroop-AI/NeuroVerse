@@ -60,14 +60,14 @@ It serves as a continuous learning archive — blending:
 
 ## 3️⃣ Recurrent Neural Networks (RNNs) & LSTM
 **Experiments:**
-- 🧩 *Experiment 1:* Neural Networks with MNIST Classification  
-- 🧩 *Experiment 2:* TensorFlow Callbacks (EarlyStopping & ModelCheckpoint)  
-- 🧩 *Experiment 3:* Sentiment Analysis using LSTM  
+- 🧩 *Experiment 1:* Neural Networks with MNIST Classification  [mnist.ipynb](mnist.ipynb)
+- 🧩 *Experiment 2:* TensorFlow Callbacks (EarlyStopping & ModelCheckpoint)  [mnist_callbacks.ipynb](Experiments/mnist_callbacks.ipynb)
+- 🧩 *Experiment 3:* Sentiment Analysis using LSTM  [Sentiment_analysis_LSTM.ipynb](Sentiment_analysis_LSTM.ipynb)
 
 **Articles & Notes**
-- 📓 [Notebook: Sentiment_Analysis_LSTM.ipynb](Notebooks/Sentiment_Analysis_LSTM.ipynb)  
-- 📘 [Paper: “How Do RNNs Remember?”](Docs/How_Do_Recurrent_Neural_Networks_Remember.pdf)  
-- 📘 [Paper: “Backpropagation Through Time (BPTT)”](Docs/Backpropagation_Through_Time_BPTT.pdf)
+- **01:** 🧾 *“How Do Recurrent Neural Networks Remember? — A Journey Through Time”* &nbsp; 📘 [Read PDF](How_Do_Recurrent_Neural_Networks_Remember.pdf)
+- **02:** 🧾 *“Backpropagation Through Time (BPTT): How RNNs Learn from the Past”* &nbsp; 📘 [Read PDF](Backpropagation_Through_Time_BPTT.pdf)
+- 
 
 ---
 
@@ -80,7 +80,7 @@ It serves as a continuous learning archive — blending:
 **Experiments:**
 
 **Articles & Notes:**
-- 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](TRANSFORMERS.pdf)  
+- **01:** 🧾 *“Transformers Demystified: Architecture, Components, and the Evolution of Attention Mechanisms”* &nbsp; 📘 [Read PDF](TRANSFORMERS.pdf)  
 
 
 
