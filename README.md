@@ -103,6 +103,12 @@ It serves as a continuous learning archive — blending:
 - DCGAN for image generation  
 - Conditional GANs for style transfer  
 
+
+
+**Articles & Notes:**
+- **01:** 🧾 *“Generative Adversarial Networks: Architecture, Working Mechanism, and Practical Applications”* &nbsp; 📘 [Read PDF](Docs/GAN.pdf)
+
+
 ---
 
 ## 6️⃣ Research Articles & Notes
