@@ -1,3 +1,13 @@
+<p align="center" style="margin: 0; padding: 0;">
+  <img 
+    src="https://github.com/KartikSaroop-AI/NeuroVerse/blob/main/neuro_versebanner.png.png"
+    alt="NeuroVerse Banner"
+    width="1000"
+    height="300"
+    style="display: block; object-fit: cover; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);"
+  />
+</p>
+
 <h1 align="center">🧠 NeuroVerse</h1>
 <p align="center">Exploring the universe of neural networks — a research-driven journey through Deep Learning, from foundational architectures to cutting-edge AI systems.</p>
 
