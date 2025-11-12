@@ -63,8 +63,12 @@ It serves as a continuous learning archive — blending:
 - Visualizing filters, feature maps, and activation layers  
 - Transfer learning using pre-trained models (VGG16, ResNet)  
 
-📓 [Notebook: CIFAR10_CNN.ipynb](Notebooks/CIFAR10_CNN.ipynb)  
-📘 [Article: Visualizing CNN Feature Maps.pdf](Docs/Visualizing_CNN_Feature_Maps.pdf)
+**Articles & Notes**
+- **01:** 🧾 *“Convolutional Neural Networks (CNNs)”* &nbsp; 📘 [Read PDF](Docs/CNN.pdf)
+- **02:** 🧾 *“From Pixels to Perception: Why Convolutional Neural Networks Outperform Traditional ANNs in Vision Tasks”* &nbsp; 📘 [Read PDF](Docs/CNNimportance.pdf)
+- **04:** 🧾 *“Preserving Spatial Information: The Importance of Padding in Convolutional Neural Networks”* &nbsp; 📘 [Read PDF](Docs/padding.pdf)
+- **04:** 🧾 *“Feature Extraction through Convolution Layers: The Core Mechanism of Visual Understanding”* &nbsp; 📘 [Read PDF](Docs/Convolutionlayers.pdf)
+- **05:** 🧾 *“Enhancing Spatial Efficiency: The Importance of Pooling Layers in Convolutional Neural Networks”* &nbsp; 📘 [Read PDF](Docs/Poolinglayers.pdf)
 
 ---
 
