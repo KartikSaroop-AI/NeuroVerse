@@ -58,10 +58,9 @@ It serves as a continuous learning archive — blending:
 ---
 
 ## 2️⃣ Convolutional Neural Networks (CNNs)
+
 **Experiments:**
-- CNN on CIFAR-10 dataset  
-- Visualizing filters, feature maps, and activation layers  
-- Transfer learning using pre-trained models (VGG16, ResNet)  
+- 🧩 *Experiment 1:* Mask R-CNN–Based Instance Segmentation and Object Detection on a Static Image  [maskcnn.ipynb](Python/maskcnn.ipynb)
 
 **Articles & Notes**
 - **01:** 🧾 *“Convolutional Neural Networks (CNNs)”* &nbsp; 📘 [Read PDF](Docs/CNN.pdf)
