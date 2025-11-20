@@ -69,7 +69,8 @@ It serves as a continuous learning archive — blending:
 - **04:** 🧾 *“Feature Extraction through Convolution Layers: The Core Mechanism of Visual Understanding”* &nbsp; 📘 [Read PDF](Docs/Convolutionlayers.pdf)
 - **05:** 🧾 *“Enhancing Spatial Efficiency: The Importance of Pooling Layers in Convolutional Neural Networks”* &nbsp; 📘 [Read PDF](Docs/Poolinglayers.pdf)
 - **06:** 🧾 *“Mask R-CNN: A Deep Learning Framework for Accurate Object Detection and Pixel-Level Segmentation”* &nbsp; 📘 [Read PDF](Docs/maskcnn.pdf)
-
+- **07:** 🧾 *“U-Net: An Encoder–Decoder Model for Semantic Segmentation Tasks”* &nbsp; 📘 [Read PDF](Docs/unet.pdf)
+  
 ---
 
 ## 3️⃣ Recurrent Neural Networks (RNNs) & LSTM
